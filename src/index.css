@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+html,body {
+  height: 100%;
+  width: 100%;
+  background: #f3f3f4;
+}
+.maincont {
+  height: 100%;
+  overflow: hidden;
+}
+.Contianer {
+  height: 100%;
+}

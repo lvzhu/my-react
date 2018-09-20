@@ -1,0 +1,46 @@
+.Wraper-cont {
+  height: 100%;
+}
+.Nav-left {
+  width: 200px;
+  height: 100%;
+  background: #2f4050;
+  float: left;
+}
+.Nav-head {
+  padding: 20px 0;
+  text-align: center;
+  color: #dfe4ed;
+  font-size: 14px;
+  background: #234463;
+}
+.Nav-head img {
+  border-radius: 50%;
+}
+.List-block {
+  padding: 10px 16px 4px 40px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #a7b1c2;
+}
+.List-block a {
+  color: #a7b1c2;
+}
+.List-block li {
+  height: 40px;
+  line-height: 40px;
+  cursor: pointer;
+}
+.List-block li:hover{
+  color: green;
+}
+.List-icon {
+  display: inline-block;
+  width: 26px;
+  height: 10px;
+  background: url(../images/user.png) 0 no-repeat;
+  vertical-align: middle;
+}
+.Nav-cont{
+  
+}
